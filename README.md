@@ -22,7 +22,7 @@ Welcome to the 🎬 **IP Movies**! **IP Movies** allows user to browse and searc
 - Infinite scrolling
 - Explore sort and filter
 
-👉 Live Demo: <a href='#'>IP Movies Demo</a>
+👉 Live Demo: <a href='[#](https://ipmovies.vercel.app/)'>IP Movies Demo</a>
 
 ### Screenshots of the Project
 
