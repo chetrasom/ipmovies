@@ -1,7 +1,8 @@
 ## Project Name: IP Movies
 ### About the project
-Welcome to the 🎬 **IP Movies**! **IP Movies** allows user to browse and search for their favorite movies or tv show or being based on any particular genre like horror, action, mystry, crime, family, fantasy, romance, music, and much More.
-
+Welcome to the 🎬 **IP Movies**! 
+**IP Movies** is a dynamic platform that utilizes the TMDB API to fetch and display detailed information about movies and TV shows. This application provides users with an engaging interface to explore and discover their favorite films and television series. Users can search for specific movies or TV shows using the search filters, enabling them to find content based on criteria such as title, release date and ratings.
+One of the standout features of the application is the ability to play trailers. Users can watch trailers of movies and TV shows directly within the application.
 ### Tech stack
 - React.js
 - TMDB API
