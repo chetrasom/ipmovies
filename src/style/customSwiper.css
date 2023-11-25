@@ -1,0 +1,29 @@
+.swiper-button-prev, .swiper-button-next {
+    top: 35%;
+}
+
+.swiper-button-prev, .swiper-rtl .swiper-button-next {
+    left: 2px;
+    display: none;
+}
+
+.swiper-button-next, .swiper-rtl .swiper-button-prev {
+    right: 2px;
+    display: none;
+}
+
+.swiper-button-prev:after, .swiper-button-next:after {
+    font-size: 32px;
+    color: #F44336;
+}
+
+/* hide arrow navigation */
+@media only screen and (min-width: 1024px) {
+    .swiper-button-prev, .swiper-rtl .swiper-button-next {
+        display: flex;
+    }
+
+    .swiper-button-next, .swiper-rtl .swiper-button-prev {
+        display: flex;
+    }
+}
